@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rohit Chowdhary</title>
+</head>
+
+<body>
+
+<h1>Rohit Chowdhary</h1>
+
+<h2>Senior User Assistance Developer</h2>
+
+<p>
+I create user-friendly documentation, release notes,
+UX content, and technical guides for enterprise software.
+</p>
+
+<h3>Projects</h3>
+
+<ul>
+<li>NextGen Payments</li>
+<li>Discovery</li>
+<li>Planning Collaboration</li>
+<li>Taulia Integration</li>
+</ul>
+
+<h3>Contact</h3>
+
+<p>Email: your@email.com</p>
+
+</body>
+</html>
